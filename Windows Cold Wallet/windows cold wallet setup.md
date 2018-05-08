@@ -21,11 +21,30 @@ The Ferrum Controller wallet, also called the Cold wallet is so called because
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_newAddress.PNG)
 
 * 4: **If you already have a Master Node running off this wallet goto Step 4B.**
+     
      Send **EXACTLY 2500 FRM** to the Master Node address (in this case MN01)
      
      ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_sendCollateral.PNG)
 
 * 4B **If this is going to be the second or more Masternode off this wallet.**
+
+    You have to be very careful not to spend FRM from other masernodes.
+    
+    Don't send FRM but setup a new Master Node address as in part 4.
+    
+    Click on `<Send>`  and  `<Inputs>`
+    
+    ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_sending2ndMN.PNG)
+    
+    As in the image below, Select the collateral of other Master Nodes.
+    
+    Right click on `<Lock Unspent>`
+    
+    ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_LockInput.PNG)
+    
+    Click on `<Select All>` to select available unspent FRM.  Be careful and make sure existing Master Node collaterals are unchecked.
+    
+    ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_selectUnlocked.PNG)
 
 * 5:  The wallet will look like the image below.  Now wait until at least 10 confirmations. 
 
