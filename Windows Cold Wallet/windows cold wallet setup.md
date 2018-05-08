@@ -1,4 +1,5 @@
 # Windows Cold Wallet Setup
+
 ## Description.
 
 The Ferrum Controller wallet, also called the Cold wallet is so called because
@@ -8,8 +9,11 @@ The Ferrum Controller wallet, also called the Cold wallet is so called because
 
 ## Step One - Collateral.
 
-* 1: Download the Ferrum windows wallet, ferrumcoin-qt.exe from 
-https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.2-qt.zip
+* 1: Don't Encrypt wallet until you are happy that the Masternode is running.
+
+     Download the Ferrum windows wallet, ferrumcoin-qt.exe from 
+     https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.2-qt.zip
+     
 * 2: Create a new receiving address. Give it a name (label) like MN01.  Its not a bad idea to edit the name of the existing address  to something like Landing (or mining).
 
 * 3: When buying FRM to setup a Master Node it is neccesary to obtain at least 2501 to allow for transactional costs.
