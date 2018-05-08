@@ -33,6 +33,7 @@ https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.
      In the console type
      
      ```masternode genkey```
+     
      Then type
      
      ```masternode outputs```
