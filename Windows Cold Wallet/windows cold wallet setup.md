@@ -8,5 +8,6 @@ The Ferrum Controller wallet, also called the Cold wallet is so called because
 
 ## Step One - Collateral.
 
-* 1: Download the Ferrum windows wallet, ferrumcoin-qt.exe from https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.2-qt.zip
+* 1: Download the Ferrum windows wallet, ferrumcoin-qt.exe from 
+https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.2-qt.zip
 * 2: Create a new receiving address
