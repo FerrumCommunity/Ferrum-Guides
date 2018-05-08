@@ -29,8 +29,11 @@ https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.
 
 * 6: **Generate private key & transaction Id, index**
      Click on `<Help>` then `<Debug Window>` then `<Console>` Tab.
+     
      In the console type
+     
      ```masternode genkey```
      Then type
+     
      ```masternode outputs```
      
