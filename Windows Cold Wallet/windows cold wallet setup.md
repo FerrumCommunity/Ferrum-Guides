@@ -28,6 +28,7 @@ https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.
    ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_CollateralReceived.PNG)
 
 * 6: **Generate private key & transaction Id, index**
+     
      Click on `<Help>` then `<Debug Window>` then `<Console>` Tab.
      
      In the console type
@@ -49,4 +50,19 @@ https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.
     
     You should copy these into a notepad file for convience as you'll need these later.  You should also keep a record of these            numbers.
     
-    
+ * 7 **Edit masternode.conf**
+ 
+     To create masternode.conf file it is easier to 
+     
+     click on `<Masternodes>` then `<My Master Nodes>` tab then press `<Create>` button.
+     
+     Enter the following items  (refer to image below):
+     * 1: Alias, not critical, just some descriptive name for this masternode.
+     * 2: Address, this is the IP address (plus :49046) for your VPS given to by Digital Ocean etc.
+     * 3: Masternode private key. (from the masternode genkey instruction)
+     * 4: Transaction Id. (from the masternode outputs instruction)
+     * 5: Transaction Index. Will be 0 or 1. (from the masternodes outputs instruction)
+     
+ ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_initialMasternodeConf.PNG)
+ 
+ 
