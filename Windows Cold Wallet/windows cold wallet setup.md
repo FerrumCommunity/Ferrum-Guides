@@ -42,7 +42,7 @@ The Ferrum Controller wallet, also called the Cold wallet is so called because
     
     ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_LockInput.PNG)
     
-    Click on `<Select All>` to select available unspent FRM.  Be careful and make sure existing Master Node collaterals are unchecked.
+    Click on `<Select All>` to select available unspent FRM.  Be careful and make sure existing Master Node collaterals are unchecked.   (It is really hard to see but there is a padlock showing against the collaetial that is locked)
     
     ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_selectUnlocked.PNG)
 
