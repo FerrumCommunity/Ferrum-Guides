@@ -75,13 +75,8 @@ The Ferrum Controller wallet, also called the Cold wallet is so called because
     Now it is time to complete the Master Node HOT wallet on your VPS.
     
 * 9: **Start Masternode**
-
       With the Master Node on the VPS syncronised and running, it need to be started.
-      
       click `<MASTERNODES>` then `<My Master Nodes>` 
-      
       Select the masternode you are starting.
-      
       Click the `<Start>` button.
-      
       ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_start.PNG)
