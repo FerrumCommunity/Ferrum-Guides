@@ -80,3 +80,5 @@ The Ferrum Controller wallet, also called the Cold wallet is so called because
       Select the masternode you are starting.
       Click the `<Start>` button.
       ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_start.PNG)
+      
+      
