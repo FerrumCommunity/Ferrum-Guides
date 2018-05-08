@@ -75,10 +75,23 @@ The Ferrum Controller wallet, also called the Cold wallet is so called because
     Now it is time to complete the Master Node HOT wallet on your VPS.
     
 * 9: **Start Masternode**
-      With the Master Node on the VPS syncronised and running, it need to be started.
-      click `<MASTERNODES>` then `<My Master Nodes>` 
-      Select the masternode you are starting.
-      Click the `<Start>` button.
-      ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_start.PNG)
+
+    With the Master Node on the VPS syncronised and running, it need to be started.
+    
+    click `<MASTERNODES>` then `<My Master Nodes>` 
+    
+    Select the masternode you are starting.
+    
+    Click the `<Start>` button.
+    
+ ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_start.PNG)
       
-      
+* 10: **Wait for Rewards**
+
+     If everything went well then there is nothing to do except wait.  
+     
+     It can take 30 to 60 minutes for the Masternode to show up as active and the last seen to be active.
+     
+     It often takes longer to receive rewards when you first set up a Master Node, sometimes over 24 hours.
+     
+     Masternodes-online has a useful monitoring tool.  https://masternodes.online/monitoring/
