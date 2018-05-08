@@ -38,3 +38,15 @@ https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrumcoin-win-1.
      
      ```masternode outputs```
      
+    It should look like the image below.  If it doesn't you have done something wrong.
+    
+    ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/ColdWallet_genkey.PNG)
+    
+    This will give 3 items of information:
+    * a:  Master Node private key.  (keep this private)
+    * b:  Transmission Id of the collateral transmision (you sent earlier).
+    * c:  Transmission Index (always 0 or 1)
+    
+    You should copy these into a notepad file for convience as you'll need these later.  You should also keep a record of these            numbers.
+    
+    
