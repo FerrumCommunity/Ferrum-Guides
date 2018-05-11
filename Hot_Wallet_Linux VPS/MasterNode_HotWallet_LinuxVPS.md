@@ -43,7 +43,7 @@
   Click `<Open>`
   
   
-  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-1.PNG)
+  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-3.PNG)
   
   
   When you first connect to a new IP address you will get the following Warning.
