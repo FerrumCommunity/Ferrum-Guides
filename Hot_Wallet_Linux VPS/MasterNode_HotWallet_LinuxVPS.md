@@ -126,7 +126,7 @@ ferrumcoind
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-10.PNG)
   
 
-  Press `<Ctrl> + <x>` 
+  Press `<Ctrl> *&* <x>` 
   Press `<Y>`
   Press `<Enter>`
   
@@ -140,5 +140,31 @@ ferrumcoind
    
    `./mnscript.sh`           *then press*    `<Enter>`
    
-   
+   The script will take a little while to finish.  It should end up like the image below.
   
+   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-11.PNG)
+   
+   
+## 6:   Create FerrumCoin.conf
+
+
+   It would be easier to copy the text below into Notepad first where you can edit it.
+   
+   ```
+rpcuser=<alphanumeric_rpc_username>
+rpcpassword=<alphanumeric_rpc_password>
+rpcallowip=127.0.0.1
+listen=1
+server=1
+daemon=1
+maxconnections=250
+masternode=1
+externalip=<vps ip_address_here>:49046
+masternodeaddr=<vps ip_address_here>:49046
+masternodeprivkey=<the_colw_wallet_genkey_value_here>
+addnode=103.207.39.149:49046
+addnode=45.32.79.141:49046
+
+   ```
+   
+   
