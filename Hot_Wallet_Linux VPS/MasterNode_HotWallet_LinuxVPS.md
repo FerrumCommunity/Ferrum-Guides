@@ -186,7 +186,15 @@ addnode=45.32.79.141:49046
   
   `ferrumcoind` *then press* `<Enter>`
   
+  Let it run for 10 minutes or so to allow it to Sync.
   
-    
+  
+  Run getinfo to check the block count.  You can check it against your Cold Wallet.  When it has Synced you may start the Masternode from your Cold Wallet.
+  
+  `ferrumcoind getinfo`  `<Enter>`  
+   
+   
+   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-12.PNG)
+   
    
    
