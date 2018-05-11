@@ -126,7 +126,7 @@ ferrumcoind
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-10.PNG)
   
 
-  Press `<Ctrl> *&* <x>` 
+  Press `<Ctrl> <X>` 
   Press `<Y>`
   Press `<Enter>`
   
@@ -144,7 +144,9 @@ ferrumcoind
   
    ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-11.PNG)
    
-   
+ 
+ 
+ 
 ## 6:   Create FerrumCoin.conf
 
 
@@ -164,7 +166,27 @@ masternodeaddr=<vps ip_address_here>:49046
 masternodeprivkey=<the_colw_wallet_genkey_value_here>
 addnode=103.207.39.149:49046
 addnode=45.32.79.141:49046
+```
+   
+   Copy and paste the following line into puty
+   
+   `nano ~/.FerrumCoin/FerrumCoin.conf`   *the press*  `<Enter>`
+   
+   Copy the content of Notepad and paste it into Nano
+    Press `<Ctrl> <X>` 
+    Press `<Y>`
+    Press `<Enter>`
+    
+    
+    
+##  7:  Syncing the Wallet
 
-   ```
+  
+  Copy and paste  
+  
+  `ferrumcoind` *then press* `<Enter>`
+  
+  
+    
    
    
