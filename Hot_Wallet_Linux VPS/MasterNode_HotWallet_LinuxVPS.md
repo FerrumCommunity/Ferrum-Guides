@@ -79,6 +79,7 @@
   ## 4:   Create Script File
   
   The next step is to create the installation script file.
+  (Windows users will **hate** the nano text editor)  Don't stray from the instructions and you should be right.  *FYI Do not use the mouse to move the cursor and do not use the Numeric keypad of the keyboard.*
   
   copy `nano /root/mnscript.sh`
   
@@ -122,5 +123,20 @@ ferrumcoind
   Single right click to paste the above into the editor.
   
   
+  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-10.PNG)
   
+
+  Press `<Ctrl> + <x>` 
+  Press `<Y>`
+  Press `<Enter>`
+  
+  
+## 5:   Execute Script
+
+
+   Copy and paste each of follwing lines and `<Enter>` 
+   `chmod 740 mnscript.sh` 
+   `./mnscript.sh`
+   
+   
   
