@@ -76,4 +76,48 @@
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-8.PNG)
   
   
+  ## 4:   Create Script File
+  
+  The next step is to create the installation script file.
+  
+  copy `nano /root/mnscript.sh`
+  
+  Single Right click to paste onto the command line and `<Enter>`
+  
+  Then copy the following
+  
+  ```
+  sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install wget nano unrar unzip libboost-all-dev libevent-dev software-properties-common -y
+sudo add-apt-repository ppa:bitcoin/bitcoin -y
+sudo apt-get update
+sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
+
+sudo fallocate -l 1500M /mnt/1500MB.swap
+sudo dd if=/dev/zero of=/mnt/1500MB.swap bs=1024 count=1572864
+sudo mkswap /mnt/1500MB.swap
+sudo swapon /mnt/1500MB.swap
+sudo chmod 600 /mnt/1500MB.swap
+sudo echo '/mnt/1500MB.swap  none  swap  sw 0  0' >> /etc/fstab
+
+sudo ufw allow 22/tcp
+sudo ufw limit 22/tcp
+sudo ufw allow 49046/tcp
+sudo ufw logging on
+sudo ufw --force enable
+
+sudo apt-get install libzmq3-dev libminiupnpc-dev -y
+
+wget https://bitbucket.org/FerrumCommunity/ferrumdownload/downloads/ferrum.zip
+
+unzip ferrum.zip
+rm ferrum.zip
+chmod +x ./ferrum/src/ferrumcoind
+sudo mv ./ferrum/src/ferrumcoind /usr/local/bin
+cd ~
+ferrumcoind
+  ```
+  
+  
   
