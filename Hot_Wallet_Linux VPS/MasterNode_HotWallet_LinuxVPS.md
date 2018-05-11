@@ -11,7 +11,8 @@
 
   This guide is using Digital Ocean but Vultr is very popular also.
   Goto https://www.digitalocean.com/ and sign up.
-  Navigate to the Dashboard and click create button.
+  
+  Navigate to the Dashboard and click `<Create>` button.
   
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-1.PNG)
   
