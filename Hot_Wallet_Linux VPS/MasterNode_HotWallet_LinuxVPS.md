@@ -136,9 +136,9 @@ ferrumcoind
 
    Copy and paste each of follwing lines and `<Enter>` 
    
-   `chmod 740 mnscript.sh`   then `<Enter>`
+   `chmod 740 mnscript.sh`   *then press*   `<Enter>`
    
-   `./mnscript.sh`           then `<Enter>`
+   `./mnscript.sh`           *then press*    `<Enter>`
    
    
   
