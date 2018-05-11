@@ -14,6 +14,8 @@
   
   Navigate to the Dashboard and click `<Create>` button.
   
+  Select `<Droplet>`
+  
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-1.PNG)
   
   
