@@ -119,5 +119,8 @@ cd ~
 ferrumcoind
   ```
   
+  Single right click to paste the above into the editor.
+  
+  
   
   
