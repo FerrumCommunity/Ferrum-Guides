@@ -32,7 +32,26 @@
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-2.PNG)
             
   
-         
+## 3:  Putty Login
+
+  Launch Putty
   
+  Digital Ocean will send you an email with the IP address and password for your VPS.
+  
+  Paste the IP address into Putty and make sure SSH is selected.
+  
+  Click `<Open>`
+  
+  
+  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-1.PNG)
+  
+  
+  When you first connect to a new IP address you will get the following Warning.
+  
+  Click `<Yes>`
+  
+  
+  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-4.PNG)
   
 
+  
