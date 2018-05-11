@@ -54,4 +54,26 @@
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-4.PNG)
   
 
+  As in the image below you will use `root` as the login.
+  
+  You copy and paste the password from the email Digital Ocean sent you.
+  
+  For windows users, to paste into Putty, a **single RIGHT click** will paste.  You will not see anything happen.
+  
+  Press `<Enter>` 
+
+
+  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-6.PNG)
+  
+
+  You should be logged in now.  Digital Ocean VPS insist that you change passwords straight away.
+  
+  Paste the same password next and `<Enter>` It will prompt you twice for a new password.
+  
+  When you're done it should look like this.
+  
+  
+  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-8.PNG)
+  
+  
   
