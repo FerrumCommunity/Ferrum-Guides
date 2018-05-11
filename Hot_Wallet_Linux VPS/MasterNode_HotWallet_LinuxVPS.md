@@ -27,7 +27,7 @@
   
   Click the `<Create>` button
     
-            ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-2.PNG)
+  ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-2.PNG)
             
   
          
