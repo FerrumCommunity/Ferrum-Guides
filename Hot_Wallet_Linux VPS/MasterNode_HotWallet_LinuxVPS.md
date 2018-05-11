@@ -19,11 +19,12 @@
   ![alt text](https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Hot_Wallet_Linux%20VPS/DO-1.PNG)
   
   Select 
-    * `Ubuntu` 
-    * `1Gig $5`
-    * Any Data Centre
-    * `Monitoring` option
-    * choose a host name eg "Ferrum.MasterNode.01"
+  
+* `Ubuntu` 
+* `1Gig $5`
+*  Any Data Centre
+* `Monitoring` option
+* choose a host name eg "Ferrum.MasterNode.01"
   
   Click the `<Create>` button
     
